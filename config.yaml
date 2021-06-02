@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:geo-ph'
 
 # 検索キーワード
 keywords:
